@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lab5-milestone</string>
+    <string name="hello_world_s">Hello World!s</string>
 </resources>
